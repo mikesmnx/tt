@@ -1,0 +1,19 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+div.sortable-header {
+    cursor: pointer;
+}
+
+.toolbar-menu-link {
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.plain-text {
+    font-size: 14px;
+    padding: 10px;
+}
